@@ -1,0 +1,11 @@
+{
+    "ALLOWED_IP" : [
+        "117.111.25.43",
+        "::1"
+    ],
+    "ALLOWED_ORIGINS" : [
+        "http://192.168.219.113:3000", "http://116.32.103.132:9000"
+    ],
+    "SALT" : "development_salt",
+    "OTP_EXPIRATION" : 30
+}
