@@ -4,7 +4,9 @@
         "::1"
     ],
     "ALLOWED_ORIGINS" : [
-        "http://192.168.219.113:3000", "http://116.32.103.132:9000"
+        "http://kyusv.duckdns.org:9000",
+        "http://116.32.103.132:9000",
+        "http://192.168.219.113:3000" 
     ],
     "SALT" : "development_salt",
     "OTP_EXPIRATION" : 30

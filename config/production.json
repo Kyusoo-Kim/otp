@@ -3,6 +3,7 @@
         "117.111.25.43"
     ],
     "ALLOWED_ORIGINS" : [
+        "http://kyusv.duckdns.org:9000",
         "http://116.32.103.132:9000"
     ],    
     "SALT" : "production_salt",
